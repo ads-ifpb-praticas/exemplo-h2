@@ -1,4 +1,4 @@
-package br.edu.ifpb.praticas.hsqldb;
+package br.edu.ifpb.praticas.h2;
 
 import java.sql.*;
 
